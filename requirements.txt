@@ -7,5 +7,5 @@ matplotlib==3.8.0
 seaborn==0.13.0
 scipy==1.12.0
 torch==2.2.0
-ctgan==0.7.4
+pip install ctgan
 sdv==1.4.0
