@@ -13,6 +13,8 @@ from scipy import stats
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+torch.classes.__path__ = [] 
+
 # Max file size (1 GB in bytes)
 MAX_SIZE = 1_073_741_824  # 1 GB
 
