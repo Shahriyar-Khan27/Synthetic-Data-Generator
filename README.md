@@ -2,7 +2,7 @@
 
 A powerful Streamlit application for generating high-quality synthetic data while preserving the statistical characteristics of your original datasets.
 
-![Synthetic Data Generator-Live](https://generatesyntheticdata.streamlit.app)
+[LIVE DEMO](https://generatesyntheticdata.streamlit.app/)
 
 ## Features
 
