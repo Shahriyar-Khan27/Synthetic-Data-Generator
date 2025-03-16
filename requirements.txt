@@ -1,11 +1,6 @@
 pip install -r requirements.txt
 
-streamlit==1.43.2
-pandas==2.2.3
-numpy==2.2.3
-matplotlib==3.8.0
-seaborn==0.13.0
-scipy==1.12.0
-torch==2.2.0
+pip install streamlit pandas numpy scipy matplotlib seaborn
+pip install torch
+pip install sdv
 pip install ctgan
-sdv==1.4.0
