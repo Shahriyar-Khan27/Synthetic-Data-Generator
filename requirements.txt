@@ -1,6 +1,1 @@
-pip install -r requirements.txt
-
-pip install streamlit pandas numpy scipy matplotlib seaborn
-pip install torch
-pip install sdv
-pip install ctgan
+pip freeze > requirements.txt
